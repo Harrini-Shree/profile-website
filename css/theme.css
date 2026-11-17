@@ -1,0 +1,39 @@
+:root {
+    --color-primary: #1abc9c;
+    --color-primary-light: #48d1cc;
+    --color-primary-dark: #16a085;
+
+    --color-bg: #1a1a2e;
+    --color-bg-secondary: #16213e;
+    --color-bg-card: #0f3460;
+
+    --color-text: #e0e0e0;
+    --color-text-secondary: #a0a0a0;
+    --color-text-inverse: #1a1a2e;
+
+    --color-accent: #e94560;
+    --color-border: #2a2a4a;
+    --color-shadow: rgba(0, 0, 0, 0.4);
+
+    --font-primary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --font-heading: 'Georgia', serif;
+    --font-size-base: 16px;
+    --font-size-h1: 2.5rem;
+    --font-size-h2: 2rem;
+
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 2rem;
+    --spacing-xl: 4rem;
+
+    --max-width: 1200px;
+    --border-radius: 8px;
+    --transition-speed: 0.3s;
+    --nav-height: 64px;
+
+    --color-overlay: rgba(0, 0, 0, 0.8);
+    --color-warm-bg: #3b2a20;
+    --color-warm-card: #5a3d2b;
+    --color-warm-accent: #ff9f68;
+    --color-warm-text: #ffe8cc;
+}
