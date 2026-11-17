@@ -1,19 +1,19 @@
 :root {
-    --color-primary: #1abc9c;
-    --color-primary-light: #48d1cc;
-    --color-primary-dark: #16a085;
+    --color-primary: #2c3e50;
+    --color-primary-light: #3498db;
+    --color-primary-dark: #1a252f;
 
-    --color-bg: #1a1a2e;
-    --color-bg-secondary: #16213e;
-    --color-bg-card: #0f3460;
+    --color-bg: #ffffff;
+    --color-bg-secondary: #f8f9fa;
+    --color-bg-card: #ffffff;
 
-    --color-text: #e0e0e0;
-    --color-text-secondary: #a0a0a0;
-    --color-text-inverse: #1a1a2e;
+    --color-text: #2c3e50;
+    --color-text-secondary: #6c757d;
+    --color-text-inverse: #ffffff;
 
-    --color-accent: #e94560;
-    --color-border: #2a2a4a;
-    --color-shadow: rgba(0, 0, 0, 0.4);
+    --color-accent: #e74c3c;
+    --color-border: #dee2e6;
+    --color-shadow: rgba(0, 0, 0, 0.1);
 
     --font-primary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     --font-heading: 'Georgia', serif;
@@ -32,8 +32,8 @@
     --nav-height: 64px;
 
     --color-overlay: rgba(0, 0, 0, 0.8);
-    --color-warm-bg: #3b2a20;
-    --color-warm-card: #5a3d2b;
-    --color-warm-accent: #ff9f68;
-    --color-warm-text: #ffe8cc;
+    --color-warm-bg: #fff4e6;
+    --color-warm-card: #ffe8cc;
+    --color-warm-accent: #d9480f;
+    --color-warm-text: #5c3a21;
 }
